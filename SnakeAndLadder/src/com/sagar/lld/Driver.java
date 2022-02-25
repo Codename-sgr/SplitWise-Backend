@@ -1,5 +1,4 @@
-package com.sagar.lld.service;
-
+package com.sagar.lld;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,6 +7,7 @@ import java.util.Scanner;
 import com.sagar.lld.bean.Ladder;
 import com.sagar.lld.bean.Player;
 import com.sagar.lld.bean.Snake;
+import com.sagar.lld.service.SnakeAndLadderService;
 
 public class Driver {
 	public static void main(String[] args) {
